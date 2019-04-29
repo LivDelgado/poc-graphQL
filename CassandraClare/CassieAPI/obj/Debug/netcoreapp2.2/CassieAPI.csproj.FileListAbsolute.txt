@@ -1,0 +1,17 @@
+C:\Users\Dell\Desktop\PoCs\graphql\ProjetoIndependente\CassandraClare\CassieAPI\obj\Debug\netcoreapp2.2\CassieAPI.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\PoCs\graphql\ProjetoIndependente\CassandraClare\CassieAPI\obj\Debug\netcoreapp2.2\CassieAPI.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\PoCs\graphql\ProjetoIndependente\CassandraClare\CassieAPI\obj\Debug\netcoreapp2.2\CassieAPI.AssemblyInfo.cs
+C:\Users\Dell\Desktop\PoCs\graphql\ProjetoIndependente\CassandraClare\CassieAPI\obj\Debug\netcoreapp2.2\CassieAPI.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\PoCs\graphql\ProjetoIndependente\CassandraClare\CassieAPI\obj\Debug\netcoreapp2.2\CassieAPI.RazorAssemblyInfo.cache
+C:\Users\Dell\Desktop\PoCs\graphql\ProjetoIndependente\CassandraClare\CassieAPI\obj\Debug\netcoreapp2.2\CassieAPI.RazorAssemblyInfo.cs
+C:\Users\Dell\Desktop\PoCs\graphql\ProjetoIndependente\CassandraClare\CassieAPI\bin\Debug\netcoreapp2.2\CassieAPI.deps.json
+C:\Users\Dell\Desktop\PoCs\graphql\ProjetoIndependente\CassandraClare\CassieAPI\bin\Debug\netcoreapp2.2\CassieAPI.runtimeconfig.json
+C:\Users\Dell\Desktop\PoCs\graphql\ProjetoIndependente\CassandraClare\CassieAPI\bin\Debug\netcoreapp2.2\CassieAPI.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\PoCs\graphql\ProjetoIndependente\CassandraClare\CassieAPI\bin\Debug\netcoreapp2.2\CassieAPI.dll
+C:\Users\Dell\Desktop\PoCs\graphql\ProjetoIndependente\CassandraClare\CassieAPI\obj\Debug\netcoreapp2.2\CassieAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Dell\Desktop\PoCs\graphql\ProjetoIndependente\CassandraClare\CassieAPI\bin\Debug\netcoreapp2.2\CassieAPI.pdb
+C:\Users\Dell\Desktop\PoCs\graphql\ProjetoIndependente\CassandraClare\CassieAPI\obj\Debug\netcoreapp2.2\CassieAPI.csproj.CopyComplete
+C:\Users\Dell\Desktop\PoCs\graphql\ProjetoIndependente\CassandraClare\CassieAPI\obj\Debug\netcoreapp2.2\CassieAPI.dll
+C:\Users\Dell\Desktop\PoCs\graphql\ProjetoIndependente\CassandraClare\CassieAPI\obj\Debug\netcoreapp2.2\CassieAPI.pdb
+C:\Users\Dell\Desktop\PoCs\graphql\ProjetoIndependente\CassandraClare\CassieAPI\bin\Debug\netcoreapp2.2\CassieBooks.dll
+C:\Users\Dell\Desktop\PoCs\graphql\ProjetoIndependente\CassandraClare\CassieAPI\bin\Debug\netcoreapp2.2\CassieBooks.pdb

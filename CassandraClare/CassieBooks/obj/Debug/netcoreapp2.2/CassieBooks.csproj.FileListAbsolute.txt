@@ -1,0 +1,9 @@
+C:\Users\Dell\Desktop\PoCs\graphql\ProjetoIndependente\CassandraClare\CassieBooks\obj\Debug\netcoreapp2.2\CassieBooks.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\PoCs\graphql\ProjetoIndependente\CassandraClare\CassieBooks\obj\Debug\netcoreapp2.2\CassieBooks.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\PoCs\graphql\ProjetoIndependente\CassandraClare\CassieBooks\obj\Debug\netcoreapp2.2\CassieBooks.AssemblyInfo.cs
+C:\Users\Dell\Desktop\PoCs\graphql\ProjetoIndependente\CassandraClare\CassieBooks\bin\Debug\netcoreapp2.2\CassieBooks.deps.json
+C:\Users\Dell\Desktop\PoCs\graphql\ProjetoIndependente\CassandraClare\CassieBooks\bin\Debug\netcoreapp2.2\CassieBooks.dll
+C:\Users\Dell\Desktop\PoCs\graphql\ProjetoIndependente\CassandraClare\CassieBooks\bin\Debug\netcoreapp2.2\CassieBooks.pdb
+C:\Users\Dell\Desktop\PoCs\graphql\ProjetoIndependente\CassandraClare\CassieBooks\obj\Debug\netcoreapp2.2\CassieBooks.dll
+C:\Users\Dell\Desktop\PoCs\graphql\ProjetoIndependente\CassandraClare\CassieBooks\obj\Debug\netcoreapp2.2\CassieBooks.pdb
+C:\Users\Dell\Desktop\PoCs\graphql\ProjetoIndependente\CassandraClare\CassieBooks\obj\Debug\netcoreapp2.2\CassieBooks.csprojAssemblyReference.cache
